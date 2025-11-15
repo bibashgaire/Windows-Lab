@@ -47,10 +47,13 @@ By completing this lab, you will develop a comprehensive understanding of how to
 
 1.Under Virus & threat protection updates, select <b>Check for updates.</b>
 <br>
+
 <img width="792" height="561" alt="Check for updates" src="https://github.com/user-attachments/assets/388d1289-c4eb-4993-a582-a9312fe62423" />
 <br>
+
 2.You can view details for the most recent update to your threat definitions. Select <b>Check for updates.</b> This process could take a few minutes. When the update has completed, the <b>Check for updates</b> button will return, and you should notice that the last update time and date have changed. Select the back button to return to the Virus & threat protection screen.
 <br>
+
 <img width="792" height="556" alt="Protection updates and back" src="https://github.com/user-attachments/assets/2d9251fa-023c-4627-8350-ef8ab7f7f7ac" />
 <br>
 
