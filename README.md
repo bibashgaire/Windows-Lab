@@ -57,4 +57,20 @@ By completing this lab, you will develop a comprehensive understanding of how to
 <img width="792" height="556" alt="Protection updates and back" src="https://github.com/user-attachments/assets/2d9251fa-023c-4627-8350-ef8ab7f7f7ac" />
 <br>
 
+<h3> - Run Antivirus Quick Scan</h3><hr>
+
+1.Now we can run an antivirus scan. Click the Quick scan button on the Virus & threat protection screen.
+The scan will take several minutes to run. When complete, the Quick scan button will reappear.
+Click Protection history to view any recent findings.
+<br>
+<img width="730" height="477" alt="Screenshot-7-quick-scan" src="https://github.com/user-attachments/assets/addf8bb9-2af1-46d4-a1cf-d664969a407a" />
+<br>
+2.This page shows you the results of the last scan. You see the files identified as a threat and quarantined, so they cannot damage your device.
+You then see files identified as potential threats but allowed to continue running.
+<br>
+<img width="540" height="726" alt="Screenshot-8-threat-updates" src="https://github.com/user-attachments/assets/71553aad-f20c-4da3-b6cc-0f58133a3cac" />
+<br>
+
+
+
 
