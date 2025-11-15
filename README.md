@@ -16,7 +16,7 @@ By completing this lab, you will develop a comprehensive understanding of how to
 
 ## Steps
 <h3> Review windows Security Virus and threat protection</h3><hr>
-1. Click the windows <b>Start</b> button and select <b>Setting</b>
+1. Click the windows <b>Start</b> button and select <b>Setting</b><br>
 <img width="517" height="596" alt="Setting" src="https://github.com/user-attachments/assets/c5fece59-ab96-4ee0-a73f-768d3de929e4" />
 
 
